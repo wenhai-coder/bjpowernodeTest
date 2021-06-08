@@ -3,6 +3,7 @@ package com.bjpowernode.domain;
 public class Teacher {
     private String id;
     private String name;
+    private int age;
 
     public String getId() {
         return id;
